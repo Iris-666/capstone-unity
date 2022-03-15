@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{20DB24A6-E760-E587-79F4-DB02A7EA568F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GPSLocation.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GetData.cs" Line="35" Column="82" />
+      <File FileName="Assets/Scripts/compassControl.cs" Line="16" Column="17" />
+      <File FileName="Assets/Scripts/GPSLocation.cs" Line="19" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CapstoneHTTP" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GPSLocation.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b0f4a745-9e1e-4ffe-8b0d-3191d37e75c0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
